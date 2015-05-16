@@ -1,0 +1,37 @@
+
+body {
+	background-color: #926D9B
+	}
+
+p  {
+	color: blue;
+	}
+	
+h1 {
+	color: green;
+	font-family: arial, helvetica, 
+	sans-serif;
+	text-align: center;
+	}
+h2 {
+	color: green;
+	}
+	
+h3 {
+	color: green;
+	}
+
+#list {
+	border: 100px;
+	border-style: dashed;
+	border-width: 2px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+	padding: 25px;
+	}	
+	
+li {
+	color: blue;
+	}
+	
