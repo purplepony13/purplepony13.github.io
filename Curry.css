@@ -21,7 +21,7 @@ h3 {
 	color: green;
 	}
 
-#list {
+.list {
 	border: 100px;
 	border-style: dashed;
 	border-width: 2px;
@@ -29,9 +29,40 @@ h3 {
 	margin-top: 50px;
 	margin-right: 50px;
 	padding: 25px;
+	font-size: 2em;
 	}	
 	
 li {
 	color: blue;
 	}
 	
+#main {
+	margin-left: 150px;
+	}
+	
+#top {
+	background-color: pink;
+	position: fixed;
+	width:150px;
+	padding-top: 75px;
+	height: 100%;
+	padding-left: 0;
+	margin-top: 0;
+	top: 0;
+	left: 0;
+	}
+#top ul li a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+	}
+
+#top ul li a:hover{
+	background-color: #fff;
+	color: black;
+	}	
+
+#top ul {
+	list-style-type: none;
+	margin-left: -10px;
+	}
