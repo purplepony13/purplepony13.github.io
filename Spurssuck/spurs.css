@@ -1,7 +1,8 @@
 body {
 	background-color: #481adc;
-	
 	}
+	
+	
 #main{
 	background-color: #4b2ff8;
 	margin: 80px;
@@ -9,6 +10,7 @@ body {
 	padding: 0px 30px;
 	border-radius: 17px;
 	}
+	
 	
 h1 {
 	color: #fff62c;
@@ -19,19 +21,23 @@ h1 {
 	font-size: 3em;
 	}
 
+	
 h1 a {
 	color: #fff62c;
 	font-family: 'Oswald', sans-serif;
-}
+	}
+
 
 h1 a:visited {
 	color: #fff62c;
 	}
 	
+	
 h1 a:hover{
 	color: #fff;
 	}
 
+	
 #navbar {
 	top: 0;
 	left: 0;
@@ -42,9 +48,11 @@ h1 a:hover{
 	position: fixed;
 	}
 
+	
 #navbar li{
 	float: left;
 	}	
+	
 	
 #navbar ul li a{
 	background-color: #3714c8;
@@ -58,46 +66,56 @@ h1 a:hover{
 	margin-bottom:10px;
 	}
 
+	
 #navbar ul li a:hover{
 	background-color: #fff;
 	color: black;
 	}	
 
+	
 #navbar ul {
 	list-style-type: none;
 	margin-left: -10px;
 	}
 
+	
 #navbar nav{
 	margin-left: 30%;	
 	}
 
+	
 #main ul {
 	margin: 20px;
 	padding: 20px;
 	}
+	
+	
 .list{
     margin-left: 35%;
 	}
 
+	
 #main li{
 	font-family: 'Lobster', cursive;
 	font-size: 1.5em;
 	padding: 0 px 15px;
 	}
 
+	
 .pic {
 	display: block;
     margin-left: auto;
     margin-right: auto
 	}
 
+	
 #main p{
 	padding: 0px 300px;
 	font-size: 1.5em;
 	font-family: 'Lobster', cursive;
 	text-align: center;
 	}
+	
 	
 #main h2{
 	font-family: 'Abril Fatface', cursive;
@@ -106,10 +124,12 @@ h1 a:hover{
 	text-align: center;
 	}
 
+	
 #main  p a{
 	color: #fff;
 	}
 
+	
 #main  ul li a{
 	color: #fff;
 	}
